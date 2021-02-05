@@ -1,13 +1,13 @@
 h1 {
-    // Font style for h1
+  
     font-family: Arial, Helvetica, sans-serif;
     
-    // Font size
+   
     font-size: 14pt;
     
-    //Font weight
+  
     font-weight:bold;
     
-    // color of font, switching from blue to red
+   
     color:red;
 }
